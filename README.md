@@ -10,6 +10,7 @@
 ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![PHP](https://img.shields.io/wordpress/plugin/required-php/bbpress)
 ***
 ### 프로젝트
 - 음식 메뉴 및 음식점 추천 웹 어플리케이션 2021.9 ~ 2021.11<br/>
@@ -27,4 +28,5 @@ Source Code : https://github.com/wlsdn2749/Bootcamp
 유니티 활용 VR 학습 프로그램 아쿠아팜 제작<br/>
 모바일 메타버스 플랫폼 컨텐츠 개발<br/>
 모바일 투자X소녀 신규 컨텐츠 개발 및 유지보수<br/>
+인공지능 모션인식 기반 가상현실 간호실습 교육 솔루션 개발<br/>
 ***
